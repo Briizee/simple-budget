@@ -1,0 +1,8 @@
+item,cost,category,type
+rent,499.99,household,expense
+tution,399.99,education,expense
+netflix,16.99,entertainment,expense
+cellphone,25.00,utility,expense
+walmart,1400,work,income
+carpayment,399.99,transportation,expense
+Spotify,9.99,entertainment,expense
